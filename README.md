@@ -1,8 +1,6 @@
-#################################
-# Date          : 26.07.2023    #
-# Programmer    : cpu-astatine  #
-# Project       : H A S H I N G #
-################################# 
+# Project       : H A S H I N G
+Date          : 26.07.2023    
+Programmer    : cpu-astatine  
 
 # Turkce Kullanicilar Icin
 Sadece tek bir yonden sifreleme programini yakindan incelemek isteyen
